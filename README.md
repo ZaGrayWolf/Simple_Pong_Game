@@ -15,9 +15,8 @@ The player controls the left paddle using their mouse, while the right paddle is
 
 1. **Clone or Download the Repository:**
     ```bash
-    [git clone https://github.com/YOUR_USERNAME/simple-pong-game.git
-    ```](https://github.com/ZaGrayWolf/Simple_Pong_Game)
-    
+    git clone https://github.com/ZaGrayWolf/Simple_Pong_Game
+    ```
     or download the ZIP and extract it.
 
 2. **Open the Game:**
